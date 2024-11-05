@@ -26,9 +26,7 @@ namespace Calculadora
                 case 1:
                     resultado = Sumar(num1, num2);
                     break;
-                case 2:
-                    resultado = Restar(num1, num2);
-                    break;
+                
                 case 3:
               
                 default:
