@@ -1,1 +1,1 @@
-hola gente esto es una calculadora
+hola gente esto es una calculadora bastante sencilla
