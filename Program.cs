@@ -9,7 +9,7 @@ namespace Calculadora
             Console.WriteLine("Seleccione una operación:");
             Console.WriteLine("1. Sumar");
             Console.WriteLine("2. Restar");
-
+            Console.WriteLine("3. multiplicar");
 
             int opcion = Convert.ToInt32(Console.ReadLine());
 
